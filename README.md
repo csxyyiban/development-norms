@@ -4,7 +4,7 @@
 
 ### 仓库信息
 
-仓库名：development-norms
+仓库名：development-norms（单词小写，单词间用横线隔开）
 
 项目名：校易班学生工作站技术部开发规范
 
